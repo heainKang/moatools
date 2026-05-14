@@ -79,7 +79,7 @@ export default function DdayPage() {
 
         <div className="bg-white rounded-2xl shadow-md p-5 mb-4">
           <p className="text-xs text-gray-400 text-center mb-3">🗓️ 목표 달성을 위한 준비</p>
-          <a href="https://link.coupang.com/a/다이어리" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKrLmXCeJg" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📔 다이어리 · 플래너 베스트 보기 →
           </a>

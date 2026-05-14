@@ -96,7 +96,7 @@ export default function SubscriptionPage() {
         )}
         <div className="bg-white rounded-2xl shadow-md p-5">
           <p className="text-xs text-gray-400 text-center mb-3">🏠 내 집 마련 전략 세우기</p>
-          <a href="https://link.coupang.com/a/부동산" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKrQ1NZad" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📚 부동산 청약 베스트셀러 →
           </a>

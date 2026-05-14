@@ -66,7 +66,7 @@ export default function MbtiMatchPage() {
         )}
         <div className="bg-white rounded-2xl shadow-md p-5">
           <p className="text-xs text-gray-400 text-center mb-3">💌 관계를 더 깊게 이해하고 싶다면</p>
-          <a href="https://link.coupang.com/a/mbti" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKrI7wK8Yw" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📚 MBTI 심리 베스트셀러 보기 →
           </a>

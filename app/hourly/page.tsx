@@ -92,7 +92,7 @@ export default function HourlyPage() {
 
         <div className="bg-white rounded-2xl shadow-md p-5 mb-4">
           <p className="text-xs text-gray-400 text-center mb-3">💼 취업/이직 준비 중이라면</p>
-          <a href="https://link.coupang.com/a/취업" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKrTqRMGvQ" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📚 취업 합격 베스트셀러 보기 →
           </a>

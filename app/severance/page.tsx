@@ -93,7 +93,7 @@ export default function SeverancePage() {
         )}
         <div className="bg-white rounded-2xl shadow-md p-5">
           <p className="text-xs text-gray-400 text-center mb-3">💼 이직 · 재취업 준비하기</p>
-          <a href="https://link.coupang.com/a/취업" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKrTqRMGvQ" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📚 이직 성공 전략 베스트셀러 →
           </a>
