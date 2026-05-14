@@ -75,7 +75,7 @@ export default function SavingsPage() {
         )}
         <div className="bg-white rounded-2xl shadow-md p-5">
           <p className="text-xs text-gray-400 text-center mb-3">💰 더 높은 수익을 원한다면</p>
-          <a href="https://link.coupang.com/a/재테크" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKqZ1hz3n2" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📈 재테크 입문 베스트셀러 →
           </a>

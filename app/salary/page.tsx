@@ -122,7 +122,7 @@ export default function SalaryPage() {
         {/* 쿠팡파트너스 */}
         <div className="bg-white rounded-2xl shadow-md p-5 mb-4">
           <p className="text-xs text-gray-400 text-center mb-3">💡 연봉 협상 & 재테크 준비하기</p>
-          <a href="https://link.coupang.com/a/재테크" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dKqZ1hz3n2" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             📚 재테크 베스트셀러 보기 →
           </a>
