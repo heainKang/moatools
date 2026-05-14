@@ -4,6 +4,14 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 
+export async function generateStaticParams() {
+  const dir = path.join(process.cwd(), 'content/blog');
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir)
+    .filter(f => f.endsWith('.json'))
+    .map(f => ({ slug: f.replace('.json', '') }));
+}
+
 function getPost(slug: string) {
   const filePath = path.join(process.cwd(), 'content/blog', `${slug}.json`);
   if (!fs.existsSync(filePath)) return null;
