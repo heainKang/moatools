@@ -6,5 +6,5 @@ export const metadata: Metadata = {
   openGraph: { title: '적금 계산기 - 이자세 공제 후 실수령액 | 모아툴즈', description: '월 납입금, 금리, 기간으로 적금 만기 수령액 계산. 이자세 15.4% 자동 공제.' },
 };
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return <>{}</>;
+  return <>{children}</>;
 }
