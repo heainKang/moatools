@@ -1,14 +1,10 @@
 import Link from 'next/link';
 
 const tools = [
-  {
-    href: '/salary',
-    emoji: '💰',
-    title: '연봉 실수령액 계산기',
-    desc: '4대보험, 소득세 자동 계산',
-    badge: '인기',
-    color: 'bg-indigo-50 border-indigo-200',
-  },
+  { href: '/salary', emoji: '💰', title: '연봉 실수령액 계산기', desc: '4대보험, 소득세 자동 계산', badge: '인기', color: 'bg-indigo-50 border-indigo-200' },
+  { href: '/bmi', emoji: '⚖️', title: 'BMI 계산기', desc: '체질량지수로 건강 체중 확인', badge: '', color: 'bg-green-50 border-green-200' },
+  { href: '/hourly', emoji: '🕐', title: '시급 계산기', desc: '주휴수당 포함 월급 계산', badge: 'NEW', color: 'bg-yellow-50 border-yellow-200' },
+  { href: '/dday', emoji: '📅', title: 'D-day 계산기', desc: '목표일까지 남은 날짜 계산', badge: 'NEW', color: 'bg-pink-50 border-pink-200' },
 ];
 
 export default function Home() {
