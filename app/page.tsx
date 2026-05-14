@@ -44,7 +44,13 @@ export default function Home() {
           ))}
         </div>
 
-        <p className="text-center text-xs text-gray-300 mt-10">
+        <Link href="/blog">
+          <div className="mt-4 border-2 border-dashed border-gray-200 rounded-2xl p-4 text-center hover:border-gray-300 transition-colors cursor-pointer">
+            <span className="text-gray-400 text-sm">📝 계산기 가이드 블로그 보기 →</span>
+          </div>
+        </Link>
+
+        <p className="text-center text-xs text-gray-300 mt-6">
           더 많은 도구가 추가될 예정입니다
         </p>
       </div>
