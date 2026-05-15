@@ -16,7 +16,15 @@ const tools = [
   { href: '/sleep', emoji: '🌙', title: '수면 계산기', desc: '최적 취침·기상 시간 계산', badge: 'NEW', color: 'bg-indigo-50 border-indigo-200' },
   { href: '/lotto', emoji: '🍀', title: '로또 번호 생성기', desc: '랜덤 로또 번호 자동 생성', badge: 'NEW', color: 'bg-yellow-50 border-yellow-200' },
   { href: '/exchange', emoji: '💱', title: '환율 계산기', desc: '실시간 환율 · USD JPY EUR', badge: 'NEW', color: 'bg-blue-50 border-blue-200' },
-  { href: '/property-tax', emoji: '🏠', title: '취득세 계산기', desc: '부동산 취득세 자동 계산', badge: 'NEW', color: 'bg-orange-50 border-orange-200' },
+  { href: '/property-tax', emoji: '🏠', title: '취득세 계산기', desc: '부동산 취득세 자동 계산', badge: '', color: 'bg-orange-50 border-orange-200' },
+  { href: '/fortune', emoji: '🔮', title: '오늘의 운세', desc: '띠별 오늘 운세 · 매일 업데이트', badge: 'NEW', color: 'bg-purple-50 border-purple-200' },
+  { href: '/korean-age', emoji: '🎂', title: '만 나이 계산기', desc: '법적 만 나이 · 생일까지 D-day', badge: 'NEW', color: 'bg-rose-50 border-rose-200' },
+  { href: '/car-tax', emoji: '🚗', title: '자동차세 계산기', desc: '차종·배기량·차령별 세금 계산', badge: 'NEW', color: 'bg-slate-50 border-slate-200' },
+  { href: '/body-fat', emoji: '💪', title: '체지방률 계산기', desc: '해군 공식 기준 체지방 측정', badge: 'NEW', color: 'bg-teal-50 border-teal-200' },
+  { href: '/rent-convert', emoji: '🏘️', title: '전월세 계산기', desc: '전세 ↔ 월세 전환 계산', badge: 'NEW', color: 'bg-violet-50 border-violet-200' },
+  { href: '/parental-leave', emoji: '👶', title: '육아휴직급여 계산기', desc: '고용보험 육아휴직급여 계산', badge: 'NEW', color: 'bg-pink-50 border-pink-200' },
+  { href: '/compound-interest', emoji: '📈', title: '복리 계산기', desc: '시간이 만드는 복리의 마법', badge: 'NEW', color: 'bg-green-50 border-green-200' },
+  { href: '/zodiac-match', emoji: '🐯', title: '띠 궁합', desc: '12간지 띠별 궁합 분석', badge: 'NEW', color: 'bg-amber-50 border-amber-200' },
 ];
 
 export default function Home() {
