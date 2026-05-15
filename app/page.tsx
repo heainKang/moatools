@@ -12,7 +12,11 @@ const tools = [
   { href: '/blood-type', emoji: '🩸', title: '혈액형 궁합', desc: 'A·B·O·AB형 궁합 분석', badge: '', color: 'bg-red-50 border-red-200' },
   { href: '/severance', emoji: '📋', title: '퇴직금·실업급여 계산기', desc: '퇴직금 및 실업급여 예상액', badge: 'NEW', color: 'bg-slate-50 border-slate-200' },
   { href: '/subscription', emoji: '🏠', title: '청약 가점 계산기', desc: '아파트 청약 가점 미리 계산', badge: 'NEW', color: 'bg-sky-50 border-sky-200' },
-  { href: '/pet-food', emoji: '🐾', title: '반려동물 사료량 계산기', desc: '강아지·고양이 적정 사료량', badge: 'NEW', color: 'bg-amber-50 border-amber-200' },
+  { href: '/pet-food', emoji: '🐾', title: '반려동물 사료량 계산기', desc: '강아지·고양이 적정 사료량', badge: '', color: 'bg-amber-50 border-amber-200' },
+  { href: '/sleep', emoji: '🌙', title: '수면 계산기', desc: '최적 취침·기상 시간 계산', badge: 'NEW', color: 'bg-indigo-50 border-indigo-200' },
+  { href: '/lotto', emoji: '🍀', title: '로또 번호 생성기', desc: '랜덤 로또 번호 자동 생성', badge: 'NEW', color: 'bg-yellow-50 border-yellow-200' },
+  { href: '/exchange', emoji: '💱', title: '환율 계산기', desc: '실시간 환율 · USD JPY EUR', badge: 'NEW', color: 'bg-blue-50 border-blue-200' },
+  { href: '/property-tax', emoji: '🏠', title: '취득세 계산기', desc: '부동산 취득세 자동 계산', badge: 'NEW', color: 'bg-orange-50 border-orange-200' },
 ];
 
 export default function Home() {
