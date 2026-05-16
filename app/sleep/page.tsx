@@ -104,7 +104,7 @@ export default function SleepPage() {
 
         <div className="bg-white/10 backdrop-blur rounded-2xl p-5">
           <p className="text-xs text-indigo-300 text-center mb-3">😴 숙면을 위한 준비</p>
-          <a href="https://link.coupang.com/a/dKqU2n5GSq" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dNaNfSIOgC" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             🛏️ 수면 보조제 베스트 →
           </a>

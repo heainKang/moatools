@@ -84,7 +84,7 @@ export default function CarTaxPage() {
         )}
         <div className="bg-white rounded-2xl shadow-md p-5">
           <p className="text-xs text-gray-400 text-center mb-3">🚗 차량 관리 용품</p>
-          <a href="https://link.coupang.com/a/dKqZ1hz3n2" target="_blank" rel="noopener noreferrer sponsored"
+          <a href="https://link.coupang.com/a/dNaKLEh0nc" target="_blank" rel="noopener noreferrer sponsored"
             className="block text-center bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 rounded-xl transition-colors">
             🔧 자동차 용품 베스트 →
           </a>
